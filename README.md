@@ -1,5 +1,7 @@
 # UNIV_PRAC
 
+### Sabke liye :) Do give a star and help people of SRM.
+
 
 1. Wap to help ronald to read a line of text frm his system and communicate a line of text to his companys server.on a condition,the server should read the line from its input and echo back to him l, ensuring the reliable communication.the client and server should not be synchronised at same time
 
